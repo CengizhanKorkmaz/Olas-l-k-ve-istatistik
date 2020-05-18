@@ -1,0 +1,20 @@
+C:\Users\cewo_\source\repos\Permutasyon_Kombinasyon\Permutasyon_Kombinasyon\bin\Debug\Permutasyon_Kombinasyon.exe.config
+C:\Users\cewo_\source\repos\Permutasyon_Kombinasyon\Permutasyon_Kombinasyon\bin\Debug\Permutasyon_Kombinasyon.exe
+C:\Users\cewo_\source\repos\Permutasyon_Kombinasyon\Permutasyon_Kombinasyon\bin\Debug\Permutasyon_Kombinasyon.pdb
+C:\Users\cewo_\source\repos\Permutasyon_Kombinasyon\Permutasyon_Kombinasyon\obj\Debug\Permutasyon_Kombinasyon.csprojAssemblyReference.cache
+C:\Users\cewo_\source\repos\Permutasyon_Kombinasyon\Permutasyon_Kombinasyon\obj\Debug\Permutasyon_Kombinasyon.Form1.resources
+C:\Users\cewo_\source\repos\Permutasyon_Kombinasyon\Permutasyon_Kombinasyon\obj\Debug\Permutasyon_Kombinasyon.Properties.Resources.resources
+C:\Users\cewo_\source\repos\Permutasyon_Kombinasyon\Permutasyon_Kombinasyon\obj\Debug\Permutasyon_Kombinasyon.csproj.GenerateResource.cache
+C:\Users\cewo_\source\repos\Permutasyon_Kombinasyon\Permutasyon_Kombinasyon\obj\Debug\Permutasyon_Kombinasyon.csproj.CoreCompileInputs.cache
+C:\Users\cewo_\source\repos\Permutasyon_Kombinasyon\Permutasyon_Kombinasyon\obj\Debug\Permutasyon_Kombinasyon.exe
+C:\Users\cewo_\source\repos\Permutasyon_Kombinasyon\Permutasyon_Kombinasyon\obj\Debug\Permutasyon_Kombinasyon.pdb
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\Olasılık Ve İstatistik Ödevleri\Permutasyon_Kombinasyon\Permutasyon_Kombinasyon\bin\Debug\Permutasyon_Kombinasyon.exe.config
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\Olasılık Ve İstatistik Ödevleri\Permutasyon_Kombinasyon\Permutasyon_Kombinasyon\bin\Debug\Permutasyon_Kombinasyon.exe
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\Olasılık Ve İstatistik Ödevleri\Permutasyon_Kombinasyon\Permutasyon_Kombinasyon\bin\Debug\Permutasyon_Kombinasyon.pdb
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\Olasılık Ve İstatistik Ödevleri\Permutasyon_Kombinasyon\Permutasyon_Kombinasyon\obj\Debug\Permutasyon_Kombinasyon.csprojAssemblyReference.cache
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\Olasılık Ve İstatistik Ödevleri\Permutasyon_Kombinasyon\Permutasyon_Kombinasyon\obj\Debug\Permutasyon_Kombinasyon.Form1.resources
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\Olasılık Ve İstatistik Ödevleri\Permutasyon_Kombinasyon\Permutasyon_Kombinasyon\obj\Debug\Permutasyon_Kombinasyon.Properties.Resources.resources
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\Olasılık Ve İstatistik Ödevleri\Permutasyon_Kombinasyon\Permutasyon_Kombinasyon\obj\Debug\Permutasyon_Kombinasyon.csproj.GenerateResource.cache
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\Olasılık Ve İstatistik Ödevleri\Permutasyon_Kombinasyon\Permutasyon_Kombinasyon\obj\Debug\Permutasyon_Kombinasyon.csproj.CoreCompileInputs.cache
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\Olasılık Ve İstatistik Ödevleri\Permutasyon_Kombinasyon\Permutasyon_Kombinasyon\obj\Debug\Permutasyon_Kombinasyon.exe
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\Olasılık Ve İstatistik Ödevleri\Permutasyon_Kombinasyon\Permutasyon_Kombinasyon\obj\Debug\Permutasyon_Kombinasyon.pdb
