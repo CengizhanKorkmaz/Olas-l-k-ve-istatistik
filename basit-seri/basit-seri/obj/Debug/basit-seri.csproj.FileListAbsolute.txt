@@ -1,0 +1,7 @@
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\basit-seri\basit-seri\bin\Debug\basit-seri.exe.config
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\basit-seri\basit-seri\bin\Debug\basit-seri.exe
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\basit-seri\basit-seri\bin\Debug\basit-seri.pdb
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\basit-seri\basit-seri\obj\Debug\basit-seri.csprojAssemblyReference.cache
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\basit-seri\basit-seri\obj\Debug\basit-seri.csproj.CoreCompileInputs.cache
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\basit-seri\basit-seri\obj\Debug\basit-seri.exe
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\basit-seri\basit-seri\obj\Debug\basit-seri.pdb
