@@ -1,0 +1,7 @@
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\sistematik-rastgele-ornekleme\sistematik-rastgele-ornekleme\bin\Debug\sistematik-rastgele-ornekleme.exe.config
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\sistematik-rastgele-ornekleme\sistematik-rastgele-ornekleme\bin\Debug\sistematik-rastgele-ornekleme.exe
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\sistematik-rastgele-ornekleme\sistematik-rastgele-ornekleme\bin\Debug\sistematik-rastgele-ornekleme.pdb
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\sistematik-rastgele-ornekleme\sistematik-rastgele-ornekleme\obj\Debug\sistematik-rastgele-ornekleme.csprojAssemblyReference.cache
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\sistematik-rastgele-ornekleme\sistematik-rastgele-ornekleme\obj\Debug\sistematik-rastgele-ornekleme.csproj.CoreCompileInputs.cache
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\sistematik-rastgele-ornekleme\sistematik-rastgele-ornekleme\obj\Debug\sistematik-rastgele-ornekleme.exe
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\sistematik-rastgele-ornekleme\sistematik-rastgele-ornekleme\obj\Debug\sistematik-rastgele-ornekleme.pdb
