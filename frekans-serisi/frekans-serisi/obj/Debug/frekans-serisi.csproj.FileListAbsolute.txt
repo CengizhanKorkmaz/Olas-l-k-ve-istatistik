@@ -1,0 +1,7 @@
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\frekans-serisi\frekans-serisi\bin\Debug\frekans-serisi.exe.config
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\frekans-serisi\frekans-serisi\bin\Debug\frekans-serisi.exe
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\frekans-serisi\frekans-serisi\bin\Debug\frekans-serisi.pdb
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\frekans-serisi\frekans-serisi\obj\Debug\frekans-serisi.csprojAssemblyReference.cache
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\frekans-serisi\frekans-serisi\obj\Debug\frekans-serisi.csproj.CoreCompileInputs.cache
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\frekans-serisi\frekans-serisi\obj\Debug\frekans-serisi.exe
+C:\Users\cewo_\OneDrive\Masaüstü\Olasılık Ve İstatistik\frekans-serisi\frekans-serisi\obj\Debug\frekans-serisi.pdb
